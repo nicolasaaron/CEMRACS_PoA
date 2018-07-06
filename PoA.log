@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.10)  6 JUL 2018 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.10)  6 JUL 2018 17:40
 entering extended mode
 **./PoA.tex
 (PoA.tex
@@ -631,7 +631,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--606
  []
 
 [12] [13] [14]
-Overfull \hbox (1.70334pt too wide) in paragraph at lines 740--741
+Overfull \hbox (1.70334pt too wide) in paragraph at lines 739--740
 []\OT1/cmr/m/n/10.95 From equa-tion (6[]), we have $[] = \U/msb/m/n/10.95 E\OT1
 /cmr/m/n/10.95 (\OML/cmm/m/it/10.95 \OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 e[
 ]$\OT1/cmr/m/n/10.95 , and there-fore, $[] \OMS/cmsy/m/n/10.95 ! \U/msb/m/n/10.
@@ -640,18 +640,18 @@ m/it/10.95 b[] \OT1/cmr/m/n/10.95 +
  []
 
 [15]
-Overfull \hbox (14.19572pt too wide) detected at line 768
+Overfull \hbox (14.19572pt too wide) detected at line 767
 \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 b[] \OT1/cmr/m/n/10.95 + [])\OML/cmm/m/
 it/10.95 u[] \OT1/cmr/m/n/10.95 = [] \OMS/cmsy/m/n/10.95 ! []\OML/cmm/m/it/10.9
 5 :
  []
 
-[16]
-Overfull \hbox (31.1891pt too wide) in alignment at lines 792--798
+
+Overfull \hbox (31.1891pt too wide) in alignment at lines 791--797
  [] [] [] [][]
  []
 
-[17] [18] [19]
+[16] [17] [18] [19]
 Package epstopdf Info: Source file: <PoA_half_more_steps_b1_2.eps>
 (epstopdf)                    date: 2018-07-03 13:56:08
 (epstopdf)                    size: 30664 bytes
@@ -661,7 +661,7 @@ pdf>
 (epstopdf)                    size: 17955 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_b1_2-ep
 s-converted-to.pdf PoA_half_more_steps_b1_2.eps>
-(epstopdf)             \includegraphics on input line 923.
+(epstopdf)             \includegraphics on input line 922.
 Package epstopdf Info: Output file is already uptodate.
 
 <PoA_half_more_steps_b1_2-eps-converted-to.pdf, id=84, 433.62pt x 289.08pt>
@@ -669,10 +669,10 @@ File: PoA_half_more_steps_b1_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_b1_2-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_b1_2-eps-converted-to.pdf used on 
-input line 923.
+input line 922.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 923--924
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 922--923
 [][] 
  []
 
@@ -685,17 +685,17 @@ Package epstopdf Info: Source file: <PoA_half_more_steps_b1bar.eps>
 (epstopdf)                    size: 17346 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_b1bar-e
 ps-converted-to.pdf PoA_half_more_steps_b1bar.eps>
-(epstopdf)             \includegraphics on input line 926.
+(epstopdf)             \includegraphics on input line 925.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_b1bar-eps-converted-to.pdf, id=85, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_b1bar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_b1bar-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_b1bar-eps-converted-to.pdf used on
- input line 926.
+ input line 925.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 926--927
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 925--926
 [][] 
  []
 
@@ -708,17 +708,17 @@ f>
 (epstopdf)                    size: 17829 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_b2-eps-
 converted-to.pdf PoA_half_more_steps_b2.eps>
-(epstopdf)             \includegraphics on input line 934.
+(epstopdf)             \includegraphics on input line 933.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_b2-eps-converted-to.pdf, id=86, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_b2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_b2-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_b2-eps-converted-to.pdf used on in
-put line 934.
+put line 933.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 934--935
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 933--934
 [][] 
  []
 
@@ -731,7 +731,7 @@ rted-to.pdf>
 (epstopdf)                    size: 17912 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_even_more_steps_b2
 bar_2-eps-converted-to.pdf PoA_half_even_more_steps_b2bar_2.eps>
-(epstopdf)             \includegraphics on input line 937.
+(epstopdf)             \includegraphics on input line 936.
 Package epstopdf Info: Output file is already uptodate.
 
 <PoA_half_even_more_steps_b2bar_2-eps-converted-to.pdf, id=87, 433.62pt x 289.0
@@ -740,10 +740,10 @@ File: PoA_half_even_more_steps_b2bar_2-eps-converted-to.pdf Graphic file (type
 pdf)
  <use PoA_half_even_more_steps_b2bar_2-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_even_more_steps_b2bar_2-eps-converted-to.pdf 
-used on input line 937.
+used on input line 936.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 937--938
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 936--937
 [][] 
  []
 
@@ -756,17 +756,17 @@ Package epstopdf Info: Source file: <PoA_half_more_steps_q.eps>
 (epstopdf)                    size: 17333 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_q-eps-c
 onverted-to.pdf PoA_half_more_steps_q.eps>
-(epstopdf)             \includegraphics on input line 945.
+(epstopdf)             \includegraphics on input line 944.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_q-eps-converted-to.pdf, id=88, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_q-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_q-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_q-eps-converted-to.pdf used on inp
-ut line 945.
+ut line 944.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 945--946
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 944--945
 [][] 
  []
 
@@ -779,17 +779,17 @@ pdf>
 (epstopdf)                    size: 17571 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_qbar-ep
 s-converted-to.pdf PoA_half_more_steps_qbar.eps>
-(epstopdf)             \includegraphics on input line 948.
+(epstopdf)             \includegraphics on input line 947.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_qbar-eps-converted-to.pdf, id=89, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_qbar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_qbar-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_qbar-eps-converted-to.pdf used on 
-input line 948.
+input line 947.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 948--949
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 947--948
 [][] 
  []
 
@@ -802,17 +802,17 @@ df>
 (epstopdf)                    size: 16775 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_q_T-eps
 -converted-to.pdf PoA_half_more_steps_q_T.eps>
-(epstopdf)             \includegraphics on input line 956.
+(epstopdf)             \includegraphics on input line 955.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_q_T-eps-converted-to.pdf, id=90, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_q_T-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_q_T-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_q_T-eps-converted-to.pdf used on i
-nput line 956.
+nput line 955.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 956--957
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 955--956
 [][] 
  []
 
@@ -825,17 +825,17 @@ o.pdf>
 (epstopdf)                    size: 18757 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_qbar_T-
 eps-converted-to.pdf PoA_half_more_steps_qbar_T.eps>
-(epstopdf)             \includegraphics on input line 959.
+(epstopdf)             \includegraphics on input line 958.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_qbar_T-eps-converted-to.pdf, id=91, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_qbar_T-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_qbar_T-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_qbar_T-eps-converted-to.pdf used o
-n input line 959.
+n input line 958.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 959--960
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 958--959
 [][] 
  []
 
@@ -848,17 +848,17 @@ Package epstopdf Info: Source file: <PoA_half_more_steps_r.eps>
 (epstopdf)                    size: 17151 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_r-eps-c
 onverted-to.pdf PoA_half_more_steps_r.eps>
-(epstopdf)             \includegraphics on input line 967.
+(epstopdf)             \includegraphics on input line 966.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_r-eps-converted-to.pdf, id=92, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_r-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_r-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_r-eps-converted-to.pdf used on inp
-ut line 967.
+ut line 966.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 967--968
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 966--967
 [][] 
  []
 
@@ -871,57 +871,57 @@ pdf>
 (epstopdf)                    size: 17918 bytes
 (epstopdf)             Command: <epstopdf --outfile=PoA_half_more_steps_rbar-ep
 s-converted-to.pdf PoA_half_more_steps_rbar.eps>
-(epstopdf)             \includegraphics on input line 970.
+(epstopdf)             \includegraphics on input line 969.
 Package epstopdf Info: Output file is already uptodate.
 <PoA_half_more_steps_rbar-eps-converted-to.pdf, id=93, 433.62pt x 289.08pt>
 File: PoA_half_more_steps_rbar-eps-converted-to.pdf Graphic file (type pdf)
 
 <use PoA_half_more_steps_rbar-eps-converted-to.pdf>
 Package pdftex.def Info: PoA_half_more_steps_rbar-eps-converted-to.pdf used on 
-input line 970.
+input line 969.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
 
-Overfull \hbox (5.42114pt too wide) in paragraph at lines 970--971
+Overfull \hbox (5.42114pt too wide) in paragraph at lines 969--970
 [][] 
  []
 
-[20] [21 <./PoA_half_more_steps_b1_2-eps-converted-to.pdf> <./PoA_half_more_ste
-ps_b1bar-eps-converted-to.pdf> <./PoA_half_more_steps_b2-eps-converted-to.pdf> 
+[20 <./PoA_half_more_steps_b1_2-eps-converted-to.pdf> <./PoA_half_more_steps_b1
+bar-eps-converted-to.pdf>] [21 <./PoA_half_more_steps_b2-eps-converted-to.pdf> 
 <./PoA_half_even_more_steps_b2bar_2-eps-converted-to.pdf> <./PoA_half_more_step
-s_q-eps-converted-to.pdf> <./PoA_half_more_steps_qbar-eps-converted-to.pdf>]
-[22 <./PoA_half_more_steps_q_T-eps-converted-to.pdf> <./PoA_half_more_steps_qba
-r_T-eps-converted-to.pdf> <./PoA_half_more_steps_r-eps-converted-to.pdf> <./PoA
-_half_more_steps_rbar-eps-converted-to.pdf>] [23] [24] [25] [26] [27] (PoA.aux)
- ) 
+s_q-eps-converted-to.pdf> <./PoA_half_more_steps_qbar-eps-converted-to.pdf> <./
+PoA_half_more_steps_q_T-eps-converted-to.pdf> <./PoA_half_more_steps_qbar_T-eps
+-converted-to.pdf>] [22 <./PoA_half_more_steps_r-eps-converted-to.pdf> <./PoA_h
+alf_more_steps_rbar-eps-converted-to.pdf>] [23] [24] [25] [26] [27] (PoA.aux) )
+ 
 Here is how much of TeX's memory you used:
  4701 strings out of 493333
  70208 string characters out of 3139197
- 144058 words of memory out of 3000000
+ 146058 words of memory out of 3000000
  8132 multiletter control sequences out of 15000+200000
  17965 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,25n,40p,1367b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmbsy6.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
-b10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib8
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on PoA.pdf (27 pages, 543639 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmbsy6.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cmextra/cmex8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on PoA.pdf (27 pages, 543270 bytes).
 PDF statistics:
  541 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
